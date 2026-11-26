@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kbzhu.github.io/sitemap.xml
